@@ -26,6 +26,12 @@ h1 {
 .comment {
     margin: 0;
 }
+.time{
+position: relative;
+left: 10px;
+
+
+}
 #wrapper {
   margin-top: 36px;
   margin-bottom: 16px;
